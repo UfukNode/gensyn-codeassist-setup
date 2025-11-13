@@ -120,6 +120,10 @@ Soruları çözdükten sonra,
 
 - Participation’larını buradan takip edebilirsin: [https://dashboard.gensyn.ai/?application=CodeAssist](https://dashboard.gensyn.ai/?application=CodeAssist)
 
+✅ Tamamlandığına Dair Örnek Çıktı:
+
+<img width="1678" height="541" alt="image" src="https://github.com/user-attachments/assets/d3c162ff-eee3-422e-9b21-9e88cedc49f4" />
+
 ---
 
 ## Terminalden Çıkış Yapanlar - Yeniden Başlatmak İçin:
