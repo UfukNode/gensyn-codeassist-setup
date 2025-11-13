@@ -86,7 +86,7 @@ uv run run.py
 
 ---
 
-## 8) Giriş Yap
+## 8) Giriş Yap:
 
 - Yükleme tamamlandığında tarayıcıdan şu bağlantıya gir:
 
@@ -96,7 +96,7 @@ uv run run.py
 
 ---
 
-## 9) Kodları AI ile Çözdür
+## 9) Kodları AI ile Çözdür:
 
 Hızlı çözüm yöntemi:
 
@@ -110,26 +110,24 @@ Bu şekilde hızlı ve basit biçimde Participation biriktirebilirsin.
 
 ---
 
-## 10) Eğitimi Tamamla
+## 10) Eğitimi Tamamla:
 
 Soruları çözdükten sonra:
 
-* Terminale dön
-* `CTRL + C` yap
-* Eğitim tamamlanmış olur
+* Terminale dön.
+* `CTRL + C` yap.
+* 5-6 dakikma içerisinde eğitim tamamlanmış olur.
 
 - Participation’larını buradan takip edebilirsin: [https://dashboard.gensyn.ai/?application=CodeAssist](https://dashboard.gensyn.ai/?application=CodeAssist)
 
 ---
 
-## Tekrar Başlatmak İçin
+## Terminalden Çıkış Yapanlar - Yeniden Başlatmak İçin:
 
 ```bash
+screen -r codeassist
+```
+```bash
 cd ~/codeassist
-screen -S codeassist
 uv run run.py
 ```
-
----
-
-İstersen bu README'yi repo stiline göre daha kompakt veya daha detaylı hale de getirebilirim.
