@@ -74,6 +74,8 @@ cd ~/codeassist
 uv run run.py
 ```
 
+Örnek Çıtkı:
+
 ---
 
 ## 7) HuggingFace Token Gir:
@@ -83,6 +85,10 @@ uv run run.py
 - "Create New Token"a tıkla.
 - "Write"a tıklayıp bir isim belirle ve token oluştur.
 - Oluşturduğun tokeni terminalde istediği kısma gir ve enter yap. (Tokeni girdiğinde gözükmez)
+
+Örnek Çıktı:
+
+<img width="581" height="146" alt="image" src="https://github.com/user-attachments/assets/946e206f-0156-4002-992d-224530ea8fd2" />
 
 ---
 
@@ -107,6 +113,8 @@ Hızlı çözüm yöntemi:
 5. Sıradaki soruya geç.
 
 Bu şekilde hızlı ve basit biçimde Participation biriktirebilirsin.
+
+![çöz](https://github.com/user-attachments/assets/d5d945ac-91c3-465b-92be-07c88c80f47c)
 
 ---
 
