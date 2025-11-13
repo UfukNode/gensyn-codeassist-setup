@@ -64,12 +64,6 @@ cd codeassist
 ## 6) Çalıştır:
 
 ```bash
-sudo apt install -y screen
-```
-```bash
-screen -S codeassist
-```
-```bash
 cd ~/codeassist
 uv run run.py
 ```
@@ -134,11 +128,9 @@ Soruları çözdükten sonra,
 
 ---
 
-## Terminalden Çıkış Yapanlar - Yeniden Başlatmak İçin:
+## Yeniden Başlatmak İçin:
 
-```bash
-screen -r codeassist
-```
+
 ```bash
 cd ~/codeassist
 uv run run.py
