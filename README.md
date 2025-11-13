@@ -143,3 +143,15 @@ screen -r codeassist
 cd ~/codeassist
 uv run run.py
 ```
+
+---
+
+## Amaç
+
+* AI eğitim sürecine katkı sağlamak,
+* AI kullanarak verilen küçük kod problemlerini çözüyoruz ve Participation topluyoruz.
+* Gensyn ekosistemine maliyetsiz şekilde dahil olmak
+
+---
+
+Hazırlayan: @UfukDegen Sorularınız için bana ulaşabilirsiniz.
