@@ -5,7 +5,7 @@ WSL + Docker + CodeAssist ile hiçbir ücret ödemeden Participation kasabilirsi
 
 ---
 
-## 1) Gerekli Paketlerin Güncellenmesi
+## 1) Gerekli Paketlerin Güncellenmesi:
 
 ```bash
 sudo apt update && sudo apt upgrade -y && sudo apt install -y screen curl iptables build-essential git wget lz4 jq make gcc nano automake autoconf tmux htop nvme-cli libgbm1 pkg-config libssl-dev libleveldb-dev tar clang bsdmainutils ncdu unzip
@@ -13,7 +13,7 @@ sudo apt update && sudo apt upgrade -y && sudo apt install -y screen curl iptabl
 
 ---
 
-## 2) Docker Kurulumu
+## 2) Docker Kurulumu:
 
 ```bash
 sudo apt update -y && sudo apt upgrade -y && \
@@ -31,7 +31,7 @@ sudo docker run --rm hello-world
 
 ---
 
-## 3) Python Kurulumu
+## 3) Python Kurulumu:
 
 ```bash
 sudo apt install -y python3 python3-pip python3-venv
@@ -40,7 +40,7 @@ python3 --version
 
 ---
 
-## 4) UV Kurulumu
+## 4) UV Kurulumu:
 
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
@@ -76,7 +76,7 @@ uv run run.py
 
 ---
 
-## 7) HuggingFace Token Gir
+## 7) HuggingFace Token Gir:
 
 - Terminal senden HuggingFace token isteyecek.
 - https://huggingface.co/settings/tokens Bağlantıya git.
@@ -112,7 +112,7 @@ Bu şekilde hızlı ve basit biçimde Participation biriktirebilirsin.
 
 ## 10) Eğitimi Tamamla:
 
-Soruları çözdükten sonra:
+Soruları çözdükten sonra,
 
 * Terminale dön.
 * `CTRL + C` yap.
